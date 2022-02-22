@@ -1,0 +1,275 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Account of the most remarkable occurrences relating to London-Derry with a relation of the signal defeat given to the French and Irish papists, May 5, 1689.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25507</idno>
+            <idno type="STC">Wing A329</idno>
+            <idno type="STC">ESTC R4681</idno>
+            <idno type="EEBO-CITATION">11889888</idno>
+            <idno type="OCLC">ocm 11889888</idno>
+            <idno type="VID">50417</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25507)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50417)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 47:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Account of the most remarkable occurrences relating to London-Derry with a relation of the signal defeat given to the French and Irish papists, May 5, 1689.</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Baldwin ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Licensed and entred according to order"</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Londonderry (Northern Ireland) --  History --  Siege, 1688-1689.</term>
+               <term>Ireland --  History --  War of 1689-1691.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:50417:1" rendition="simple:additions"/>
+            <head>An Account of the most Remarkable Occurrences relating to <hi>London-Derry.</hi> With a Relation of the ſignal Defeat given to the <hi>French</hi> and <hi>Iriſh</hi> Papiſts, <hi>May 5. 1689.</hi>
+            </head>
+            <opener>Licenſed and Entred according to Order.</opener>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>IN my former I gave you an Account of the late King's coming before <hi>London-Derry,</hi> and what afterwards happen'd, till the 23d. of <hi>April,</hi> when <hi>Kilmore</hi> was ſurrendred, at which time Col. <hi>Lundee,</hi> their then Governour, that very Morn<g ref="char:EOLhyphen"/>ing made his eſcape. It now remains, that I give a Relation of what has fallen out ſince, and of the condition of the place.</p>
+            <p>The Beſieged having rejected all Offers made them by the late King, and provok'd the Beſiegers in divers Sallies, as alſo being uncertain when Relief would arrive from <hi>England,</hi> reſolv'd to put them<g ref="char:EOLhyphen"/>ſelves into the beſt poſture they could, and to that purpoſe unanimouſſy declar'd their Reſolutions to Live and Die with their new Governours, Mr. <hi>George Walker,</hi> and Mr. <hi>Henry Baker,</hi> and to ſubmit with an entire Obedience to their Conduct and Com<g ref="char:EOLhyphen"/>mands for defence of the City.</p>
+            <p>In the firſt place, they examin'd the Publick Trea<g ref="char:EOLhyphen"/>ſury, where they expected to have found the five hundred Pounds ſent them from <hi>London</hi> by Captain <hi>Beverly,</hi> in the firſt Ship that brought them Arms and Ammunition, and a far greater Sum, but the Birds were flown. Then they took a view of the Ammunition and Stores, and found near 500 Barrels of Powder untouch'd, Ball and Match ſufficient, as alſo Bu<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ts for their great Guns, of which they have 24 mounted upon the Baſtions of the Walls, upon the Tower of the Church two, and eight within the City, that is to ſay, one at each Gate, and one at each corner of the Market-Houſe in the middle of the City, and fronting each Gate.</p>
+            <p>In the third place, they made inſpection into the Stores of Proviſions, and found a vaſt quantity of Wheat, Meal, Oatmeal, Beef, Bacon, Salt, Sal<g ref="char:EOLhyphen"/>mon, and Butter, Cheeſe, Mault, Beer, Brandy, <hi>&amp;c.</hi> which was all inventory'd, and put into Pub<g ref="char:EOLhyphen"/>lick Store-Houſes, with Guards ſet over them. Alſo all Merchants, and Tradeſmen, to prevent imbezel<g ref="char:EOLhyphen"/>ling their Wares and Merchandizes, took Inventories of their ſeveral Goods, and carry'd them into Publick Store-Houſes, which are guarded Night and Day.</p>
+            <p>Moreover, upon a Mu<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>er of all that bore Arms, they were found to be about 12000, which are all form'd into Regiments and Companies, every Regi<g ref="char:EOLhyphen"/>ment under a Col. Lieutenant Col. Major, and Cap<g ref="char:EOLhyphen"/>tain, <hi>&amp;c.</hi> amounting to 17 in all. The Colonels are,
+<list>
+                  <item>Col. <hi>George Walker,</hi> Governours.</item>
+                  <item>Col. <hi>Henry Baker,</hi> Governours.</item>
+                  <item>Col. <hi>Adam Murray,</hi> General of the Field, who upon Enterprizes Commands in Chief, and Orders all the Sallies.</item>
+                  <item>Col. <hi>Hugh Hammel.</hi>
+                  </item>
+                  <item>Col. <hi>Tho. Whitney.</hi>
+                  </item>
+                  <item>Col. <hi>Henry Muroco.</hi>
+                  </item>
+                  <item>Col. <hi>Henry Croft<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>n.</hi>
+                  </item>
+                  <item>Col. <hi>Michael Bourn.</hi>
+                  </item>
+                  <item>Col. <hi>Alexander Sanderſon.</hi> of <hi>Tyrone,</hi> &amp;c.</item>
+               </list>
+            </p>
+            <p>Eight more, whoſe Names I do not at preſent re<g ref="char:EOLhyphen"/>member.</p>
+            <p>
+               <hi>Tho. Johnſon</hi> is alſo made Mayor of the Town.</p>
+            <p>All the Women and Children that brought no Subſiſtance along with them into the City, nor could give any account of themſelves; as alſo many that are unfit to bear Arms, were put out of the Town juſt before the Siege began, which was one reaſon that they have ſo many now in Arms, in regard that many who brought no Subſiſtance into the Town, rather than be turn'd out of the Gates, gladly took up Arms to earn their Subſiſtance. But of Two Thouſand Horſe, which after the Proteſtants wer, broken at <hi>Clawde-Ford,</hi> march'd into <hi>London-Derry,</hi> there are not now a hundred left for want of <hi>Forrage</hi> which conſtrain'd them to turn the Horſes out of the Gates, the greateſt part of which fell into the Ene<g ref="char:EOLhyphen"/>mies hands, only ſome few are ſtill left that graze under the Protection of the City Canon, which the <hi>Iriſh</hi> however now and then pick up, as often as they dare adventure, and for which as often they pay very dearly, being either ſhot Dead, Wounded, or taken Priſoners.</p>
+            <p>The great Gates of the City are barricado'd with<g ref="char:EOLhyphen"/>in-ſide with huge pieces of Timber; the Keys are kept at the main Guard, and eight Captains, two to a Gate, are upon the Watch every Night. When there is occaſion, the Keys are not to be deliver'd, as was uſual, to a Sergeant, but into the hands of the Cap<g ref="char:EOLhyphen"/>tains that guard the particular Poſt.</p>
+            <p>Two Regiments are upon Duty every night, and upon the leaſt Alarum they are all to repair to the Walls, without expecting any other Orders.</p>
+            <p>There are in the Town five Miniſters who have the Commands of ſo many Companies, and have every one of them given ſignal Proofs of their Valour; particularly one Mr. <hi>Chriſtopher Jenny.</hi>
+            </p>
+            <p>The private Souldiers are all in good Heart; the Allowance to each Man for a Week, being a Salmon and a half, two pound of Beef, and four Quarts of Oate-meal. Good ſtrong Beer is alſo order'd to be ſold at a Penny a Quart, though not to the Souldiers after eight at Night, to avoid Diſorders.</p>
+            <p>Blinds are alſo ſet up by the Command of she Go<g ref="char:EOLhyphen"/>vernours, to ſecure the Men upon the Walls from the Enemies Battery.</p>
+            <p>There is in <hi>Derry</hi> one Col. <hi>Darus,</hi> of <hi>Plattin, in</hi> the County of <hi>Meath,</hi> who is kept a Priſoner, as ha<g ref="char:EOLhyphen"/>ving been taken at <hi>Chappel</hi> in <hi>Scotland,</hi> and was one that commanded in the Recruits ſent by <hi>Tyrconnel</hi> to the late King into <hi>England.</hi> General <hi>Hamilton</hi> has wrote ſeveral Letters to the Governours to have this Captain ſet at Liberty, but they do not think fit to part with him; nevertheleſs they uſe him civilly.</p>
+            <p>The <hi>Iriſh</hi> alſo very much lament the loſs of Ma<g ref="char:EOLhyphen"/>jor <hi>Robert Nangle</hi> (the Son of Tory <hi>Nangle,</hi> that was ſhot at <hi>Longford-Bridge</hi>) who together with two Troopers was drown'd, while they endeavour'd to get over the Paſs at <hi>Cladee-Ford.</hi> 'Tis alſo believed, that Col. <hi>Dominic Sheldon</hi> is dead of the Wounds he received in one of the Sallies made by the Beſieged, from the hands of one Mr. <hi>Arthur Ivory,</hi> a brisk young Gentleman, who fought the Colonel hand to hand, till at length two of the <hi>Iriſh</hi> coming in to the Colonel's Reſcue, ſhot the Gentleman dead.</p>
+            <p>The late King has made Col. <hi>Charles Moor</hi> Go<g ref="char:EOLhyphen"/>vernour of <hi>Colraine,</hi> where he keeps with a Garri<g ref="char:EOLhyphen"/>ſon, conſiſting of a Thouſand Men. The Marqueſs of <hi>Antrim</hi> is made Governour of <hi>Carrick Fergus,</hi> which has the ſame number of Souldiers to defend it. And <hi>Gourdon O Neale</hi> is alſo made Governour of <hi>Charlemont,</hi> tho' not having with him above 200 Souldiers.</p>
+            <p>
+               <hi>Cheſter.</hi> The laſt Week arrived here a Veſſel from <hi>Ireland</hi> with Paſſengers, who credibly Report, that the Late King, having received Advice from the Camp before <hi>Derry,</hi> that they were not a num<g ref="char:EOLhyphen"/>ber ſtrong enough to Storm the City, no<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to with<g ref="char:EOLhyphen"/>ſtand the Enemy, ſhould they have Succours from
+<pb n="2" facs="tcp:50417:2"/>
+               <hi>England,</hi> and beſides, that they wanted Amn unition and great Guns, gave Orders for a conſiderable Re<g ref="char:EOLhyphen"/>cruit to march Northward; but that when they came within two days March of <hi>Derry,</hi> the Regi<g ref="char:EOLhyphen"/>ment commanded by young Sir <hi>Maurice Eustace</hi> in the County of <hi>Kildare,</hi> and ſome other Regiments, fell into a deſperate Mutiny, ſwearing by their <hi>Shouls</hi> they would not go to the King's Slaughter-Houſe to be kill'd, as the <hi>French</hi> Generals, Sir <hi>Patrick Dowdel,</hi> Major <hi>Taaff,</hi> and the reſt had been; and that they would rather turn to the Proteſtants, and ſerve King <hi>William,</hi> than be Slaves to the <hi>French.</hi> Upon which, hundreds of them ran away, and betook themſelves to the Boggs and Mountains.</p>
+            <p>On Saturday, <hi>May</hi> the <hi>18th.</hi> arrived from <hi>Dub<g ref="char:EOLhyphen"/>lin,</hi> at <hi>Dawpool,</hi> betwixt <hi>Cheſter</hi> and <hi>Liver-pool,</hi> one <hi>Can,</hi> Maſter of a Ve<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſel belonging to thoſe Parts, on Board of whom were many Paſſengers, who had all of th<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Pa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſes, for which they paid at the Se<g ref="char:EOLhyphen"/>cretaries O<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>e in <hi>Dublin</hi> 3 <hi>l.</hi> 10 <hi>s.</hi> for every indivi<g ref="char:EOLhyphen"/>dual Per<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on, though moſt were Women and Chil<g ref="char:EOLhyphen"/>dren. They <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Dublin</hi> the <hi>15th.</hi> and bring Advice, That on the <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>th</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Order came from the late King, to grant <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ore Pa<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>es. They alſo ſay further, That the Duke of <hi>T<gap reason="illegible" resp="#KEYERS" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap>nel</hi> was at <hi>Chappel Izard,</hi> but <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ill of the Black Jaundies, and of a Shot in his Shoulder, and a Wound in his Hand, that the Phy<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ic<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ans had given him over, as paſt Re<g ref="char:EOLhyphen"/>covery. Th<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Mr. <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>itz-James</hi> is dead, and many of the Souldiers die daily (they fear of the Plague) in the Camp; for that having no Salt, they are for<g ref="char:EOLhyphen"/>ced to hang what Fleſh they kill, on the Trees to dry, which hath bred many Diſtempers amongſt them. On Monday the <hi>13th.</hi> another Reinforce<g ref="char:EOLhyphen"/>ment march'd from <hi>Dublin</hi> towards the Camp be<g ref="char:EOLhyphen"/>fore <hi>Derry,</hi> with two Cannon, a very large Morter-Piece, and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ome large Bombs. The Mortar piece <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> drawn by ſixteen good Horſes; but <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>as they <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> drawing it up <hi>C<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rk-hill,</hi> the Chains broke, and the Piece roul'd back again to the bottom, which made one of the Officers Major <hi>Barker,</hi> ſwear a bloody Oath he believed they were bewitched, and to curſe a Protſtant Gentleman that ſtood near, with the appellation of a Heretick Witch, <hi>&amp;c.</hi>
+            </p>
+            <p>Some of theſe Paſſengers ſay, that the late King has lately loſt many Men before <hi>Derry,</hi> and that they ſaw at <hi>Dublin</hi> four Velvet Coffins, wherein were the Bodies of four Great Perſons that were ſlain before that Town, and which were privately Interred at Midnight.</p>
+            <p>Several Highlanders have attended the late King for Commiſſions, which they have obtained, and have promiſed him great things, as he has done to them, if Fortune favour them with Succeſs.</p>
+            <p>On Thurſday the <hi>16th.</hi> Major-General <hi>Kirk,</hi> with three brave Regiments, Embarqued<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> at <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iver-pool</hi> for <hi>London-Derry,</hi> having on Board him many Engineers and Gunners, with great ſtore of Ammu<g ref="char:EOLhyphen"/>nition, Arms, Morters, Bombs, and a great quan<g ref="char:EOLhyphen"/>tity of Wheat Barrels of Beef, <hi>&amp;c.</hi>
+            </p>
+            <p>On Friday they ſet Sail, but the Wind did not prove ſo fait as was hoped; but they are ſtill at S<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a, or elſe at <hi>Denry</hi> ere this; for that they reſolved to ſail down the River in ſpight of all that could be done by the Fort of <hi>Kilmore,</hi> which they doubted not to beat about the Ears of the <hi>Iriſh,</hi> if they durſt ſtay within it to make any Reſiſtance.</p>
+            <p>After theſe Perſons had left <hi>Dublin,</hi> Advice was brought to the late King, that 6000 Foot of the Gar<g ref="char:EOLhyphen"/>riſon of <hi>London-Derry,</hi> and about 100 Horſe, in two Troops, had made a Sally at Midnight upon his Camp, kill'd, wounded, and taken ſome thouſands, and thereby had raiſed the Siege, and thereby had made themſelves Maſters again of <hi>Kilmore.</hi> Of which we expect the Confirmation every ho<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r. And indeed there may be good <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>aſon to believe it, for the laſt Letters from <hi>Scotland</hi> of the <hi>17th.</hi> inſtant, do ſay, that their Advices from <hi>Ireland</hi> give Account, that <hi>London-Derry</hi> and <hi>Inniskilling</hi> hold out bravely; that the latter within theſe few days had made a great and vigorous Sally, in which they killed a great number of the Enemy, and made a ſa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Retreat into the City.</p>
+            <p>By a Veſſel come into <hi>Briſtol</hi> on Monday the 20th. inſtant, in four days from the <hi>Iſle of Man,</hi> the Maſter whereof ſays, he there left divers of the Proteſtants newly arrived from <hi>Ireland,</hi> who do affirm, that the <hi>Iriſh</hi> Army, having received a Reinforcement, made a General Aſſault upon <hi>London-Derry</hi> laſt Sabbath-day was fortnight, with great fury; that the Beſieged made a moſt gallant Defence, and with that Succeſs, that they beat them above a Mile beyond their Camp, and kill'd ſome thouſands, of which are many Per<g ref="char:EOLhyphen"/>ſons of Quality, particulary Major-General <hi>Ramſey,</hi> and Cap. <hi>Cuſſack,</hi> (the Duke of <hi>Berwick</hi> not yet heard of) they had in their Camp 13 Coaches, which they fill'd, and drew off with the dead Bodies of Per<g ref="char:EOLhyphen"/>ſons of Quality and Officers And ſo obſtinate and bloudy was the Fight, and their Loſs ſo great, that they were forced to raiſe the Siege, and are retreated above 40 miles, to a place called <hi>Lamlog Liſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>neg a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ncy,</hi> They have ſince in the County of <hi>Do<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n,</hi> and other places, moſt barbarouſly murthered many <hi>Engliſh,</hi> and give out, they daily expect Recruits, and will be Maſters of <hi>London-Derry</hi> o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hazard the whole Army. The Ship-maſter afore-mentioned likewiſe ſays thoſe he ſaw at the <hi>Iſle of Man</hi> of the Proteſtants from <hi>Ireland,</hi> eſcaped with their Lives only, having uſed them barbarouſly.</p>
+            <p>Another Perſon who came Wedneſday <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> from <hi>Dublin,</hi> confirms the Fight to have been very bloudy, as then related; and that the Proteſtants have re<g ref="char:EOLhyphen"/>gained <hi>Kilmore.</hi> So that it's believed the three Regi<g ref="char:EOLhyphen"/>ments of Major-General <hi>Kirk,</hi> Sir <hi>W. Hanmore,</hi> and Col. <hi>Stewart,</hi> with the reſt of their Squadron, are all got ſafe into <hi>London-Derry</hi> without any Oppoſition, and have had a joyful meeting with thoſe brave Souls who have ſtood in the Gap to ſave a Nation.</p>
+            <p>A Veſſel is alſo come into the Weſt from the Town of <hi>Lymerick,</hi> the Maſter ſays, That the <hi>Iriſh</hi> are ex<g ref="char:EOLhyphen"/>treamly unwilling to meet the Proteſtants in Battel, eſpecially the <hi>Engliſh</hi> Army, of whom they are ſo afraid, that in <hi>Lymerick</hi> it ſelf there are but 4 or 5 Companies of raw. undiſciplin'd Men, not half Ar<g ref="char:EOLhyphen"/>med, who take all Opportunities to run away they can. And it's thought one Man of War, with <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> or 300 Men, might ſoon be Maſters of the place: And that the like might be done at <hi>Galloway,</hi> and bring off that gallant Gentleman, Sir <hi>Thomas Southwell,</hi> and about 140 more of his followers, now under Condemna<g ref="char:EOLhyphen"/>tion there, for no other Crime, than their own De<g ref="char:EOLhyphen"/>fence, and being Proteſtants, which is now Crime enough to ballance all the Services and Loyalty Fleſh and Blood can be capable of; an eminent inſtance of which is not many days Old.</p>
+            <p>Col. <hi>Ruſſel</hi> of <hi>Ireland,</hi> who was Governour of <hi>Gal<g ref="char:EOLhyphen"/>loway,</hi> and commanded the beſt Regiment of Horſe in that Kingdom, ſince the late King's arrival in that Kingdom, was turned out of his Government firſt, and ſoon after from his Command as Colonel; and in the height of his diſſatisfaction, humbly waired on the late King, and laid before him his con<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ant. Ser<g ref="char:EOLhyphen"/>vices to his Father, his Brother, and himſelf; and what an Affliction it was to him to have now his Loyalty queſtioned, <hi>&amp;c.</hi> The late King told him, <hi>He muſt needs confeſs and own all he had ſaid <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> But it was alſo as true, that he was now <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nde<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Circum<g ref="char:EOLhyphen"/>ſtances that would not permit him to truſt a<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Man<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>tf his Profeſſion, viz.</hi> A Proteſtant of the Church of <hi>England.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London:</hi> Printed for <hi>Richard Baldwin,</hi> near the <hi>Black Bu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l</hi> in the <hi>Old-Baily.</hi> MDCLXXXIX</p>
+         </div>
+      </back>
+   </text>
+</TEI>
